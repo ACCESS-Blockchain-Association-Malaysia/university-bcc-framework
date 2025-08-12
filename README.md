@@ -52,7 +52,7 @@ Plan events, recruit members, and run activities!
 - Wallet Setup Workshop – Guide members in creating and securing wallets like MetaMask or Phantom, while teaching best practices for wallet safety.
 - Blockchain 101 Panel – Host a casual Q\&A session with guest speakers to discuss core blockchain concepts and answer member questions.
 ### How do I collaborate with the industry?
-We have a sample event proposal file you can look through in this repository for collaborations in your university.
+We have a sample event proposal file `Sample Event Proposal (Collaboration)` you can look through in this repository for collaborations in your university.
 
 ## Hands-On Learning
 - Smart Contract Coding Session – Build a simple smart contract together as a group.

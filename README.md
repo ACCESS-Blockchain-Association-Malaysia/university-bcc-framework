@@ -76,3 +76,6 @@ We have a sample event proposal file `Sample Event Proposal (Collaboration)` you
 # Templates for proposals, posters, and emails
 
 Event Poster Template Example: https://www.canva.com/design/DAGtS1NVJ2Q/AuBPT45xMxtW0w4lqO3MOg/edit
+
+# Acknowledgements
+Big thanks to [Hussain Rana](https://github.com/nothussainrana), [Junaid](https://github.com/MrJuna1d) & [Hao Zhe](https://github.com/HaoZ9801) for helping make this possible

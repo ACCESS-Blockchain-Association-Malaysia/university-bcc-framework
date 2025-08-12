@@ -77,5 +77,5 @@ We have a sample event proposal file `Sample Event Proposal (Collaboration)` you
 
 Event Poster Template Example: https://www.canva.com/design/DAGtS1NVJ2Q/AuBPT45xMxtW0w4lqO3MOg/edit
 
-# Collaboration guide & onboarding docs
+# Onboarding docs
 

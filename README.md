@@ -51,6 +51,8 @@ Plan events, recruit members, and run activities!
 - Intro to Blockchain Workshop – Cover the fundamentals of blockchain, wallets, tokens, and essential safety tips.
 - Wallet Setup Workshop – Guide members in creating and securing wallets like MetaMask or Phantom, while teaching best practices for wallet safety.
 - Blockchain 101 Panel – Host a casual Q\&A session with guest speakers to discuss core blockchain concepts and answer member questions.
+### How to do collabs with others?
+We have a sample event proposal file in this repository for when you want to collaborate with outsiders for events in your university.
 
 ## Hands-On Learning
 - Smart Contract Coding Session – Build a simple smart contract together as a group.

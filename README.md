@@ -45,6 +45,28 @@ For school/university/community clubs, you might need to:
 Plan events, recruit members, and run activities!
 
 # Web3 learning resources & event ideas
+## Beginner-Friendly Events
+- Blockchain Club Welcoming Party – A relaxed event to welcome new members, introduce the basics of blockchain, and include small interactive activities to spark interest.
+- Intro to Blockchain Workshop – Cover the fundamentals of blockchain, wallets, tokens, and essential safety tips.
+- Wallet Setup Workshop – Guide members in creating and securing wallets like MetaMask or Phantom, while teaching best practices for wallet safety.
+- Blockchain 101 Panel – Host a casual Q\&A session with guest speakers to discuss core blockchain concepts and answer member questions.
+
+## Hands-On Learning
+- Smart Contract Coding Session – Build a simple smart contract together as a group.
+- DeFi Exploration Day – Explore decentralized exchanges, staking, and lending on testnets for a risk-free experience.
+- Trading Workshop – Teach members how to read charts, use trading platforms, manage risk, and spot opportunities in crypto markets.
+
+## Engagement & Networking
+- Guest Speaker Series – Invite blockchain founders, developers, traders, or industry experts to share insights and experiences.
+- Web3 Demo Day – Members showcase their projects or ideas and receive feedback from the community.
+- Club Hackathon – A 2–3 day hackathon where small teams collaborate to design and build innovative blockchain-based apps.
+- Trading Competition – Split members into teams and use demo trading accounts; the team with the highest profit wins rewards.
+
+## Fun & Community Building
+- Pickleball Social – Host a casual pickleball game day to combine physical activity with community bonding.
+- Blockchain Trivia Night – Organize a quiz night with fun questions about blockchain history, technology, and trends.
+- Crypto Scavenger Hunt – Hide blockchain-related clues around campus or online, using QR codes to lead to small rewards.
+- Community Meetups – Gather members for casual hangouts, coffee chats, or themed dinners to encourage networking and build friendships beyond formal events.
 
 # Templates for proposals, posters, and emails
 

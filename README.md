@@ -44,7 +44,8 @@ For school/university/community clubs, you might need to:
 ## Step 6: Start Holding Meetings
 Plan events, recruit members, and run activities!
 
-# Web3 learning resources & event ideas
+# Event Ideas
+
 ## Beginner-Friendly Events
 - Blockchain Club Welcoming Party – A relaxed event to welcome new members, introduce the basics of blockchain, and include small interactive activities to spark interest.
 - Intro to Blockchain Workshop – Cover the fundamentals of blockchain, wallets, tokens, and essential safety tips.
@@ -67,6 +68,8 @@ Plan events, recruit members, and run activities!
 - Blockchain Trivia Night – Organize a quiz night with fun questions about blockchain history, technology, and trends.
 - Crypto Scavenger Hunt – Hide blockchain-related clues around campus or online, using QR codes to lead to small rewards.
 - Community Meetups – Gather members for casual hangouts, coffee chats, or themed dinners to encourage networking and build friendships beyond formal events.
+
+# Web3 Learning Resources
 
 # Templates for proposals, posters, and emails
 
